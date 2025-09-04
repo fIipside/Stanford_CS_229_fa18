@@ -15,3 +15,6 @@
 ![ 2025-08-31 015328.png](https://s2.loli.net/2025/09/04/W5aNxPCFDwnkBGv.png)
 ![ 2025-08-31 020429.png](https://s2.loli.net/2025/09/04/JKm7e1r62CpbXVv.png)
 ![ 2025-08-31 020441.png](https://s2.loli.net/2025/09/04/HeZoAm1GFO7VspQ.png)
+## Multiple Steps v.s. Low-level
+- Multiple steps: Go
+- Low-level: move up/down/left/right
